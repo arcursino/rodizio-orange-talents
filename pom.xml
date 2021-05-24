@@ -8,10 +8,10 @@
 		<version>2.3.3.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>br.gov.sp.fatec</groupId>
-	<artifactId>spring-boot-app</artifactId>
+	<groupId>br.gov.sp.orangetalents</groupId>
+	<artifactId>orange-talents</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-boot-app</name>
+	<name>orange-talents</name>
 	<description>Project for Spring Boot</description>
 
 	<properties>

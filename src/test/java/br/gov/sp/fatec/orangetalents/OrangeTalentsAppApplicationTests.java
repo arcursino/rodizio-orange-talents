@@ -1,4 +1,4 @@
-package br.gov.sp.fatec.springbootapp;
+package br.gov.sp.fatec.orangetalents;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
